@@ -34,7 +34,8 @@ int main()
 		printf("\n3.  Multiplication.....!");
 		printf("\n4.  Transpose of A...!");
 		printf("\n5.  Transpose of B...!");
-	
+		printf("6. Exit\n");
+			
 		printf("Enter your Choice: ");
 		scanf("%d",&ch);
 		
